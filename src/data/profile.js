@@ -98,11 +98,11 @@ export const profile = {
         description: '',
       },
       {
-        title: 'Biomedical Science',
+        title: 'Machine Learning',
         description: '',
       },
       {
-        title: 'Computer Science',
+        title: 'Physical Chemistry',
         description: '',
       },
     ],
