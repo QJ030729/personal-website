@@ -4,7 +4,7 @@ export const profile = {
   siteTitle: 'Qiao Jie (\u4e54\u9889) / Homepage',
   role: 'Ph.D. Student at Shanghai Jiao Tong University',
   shortBio: '',
-  profilePhoto: '/profile-photo.png',
+  profilePhoto: '/avatar-20260718.jpg',
   updatedAt: 'Updated on Apr. 24th, 2026',
   navItems: [
     { label: 'About', href: '#about' },
@@ -74,6 +74,7 @@ export const profile = {
   honors: {
     title: 'Honors and Awards (Selected)',
     items: [
+      'Outstanding Undergraduate Representative of Dalian University of Technology (one of only fourteen undergraduates university-wide to receive this honor).',
       '2023-2024 Academic Year, National Scholarship, Dalian University of Technology.',
       '2023 Academic Year, First-Class Academic Excellence Scholarship, Dalian University of Technology.',
       '2024 Academic Year, First-Class Academic Excellence Scholarship, Dalian University of Technology.',
