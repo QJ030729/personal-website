@@ -1,9 +1,14 @@
 export const projects = [
   {
-    title:
-      'Second Prize in the Finals of the 15th National College Mathematics Competition (Ranked 96th Nationwide)',
+    title: '第十五届全国大学生数学竞赛决赛二等奖（全国排名第96名）',
   },
   {
-    title: 'National Second Prize in the 2024 National College Student Mathematical Contest in Modeling',
+    title: '2024年全国大学生数学建模大赛全国二等奖',
+  },
+  {
+    title: '第十五届全国大学生数学竞赛省一等奖（全省第二）',
+  },
+  {
+    title: '第十六届全国大学生数学竞赛省一等奖（全省第三）',
   },
 ];
