@@ -1,14 +1,17 @@
 export const projects = [
   {
-    title: '第十五届全国大学生数学竞赛决赛二等奖（全国排名第96名）',
+    title:
+      'Second Prize in the Finals of the 15th National College Student Mathematics Competition (Ranked 96th Nationwide)',
   },
   {
-    title: '2024年全国大学生数学建模大赛全国二等奖',
+    title: 'National Second Prize in the 2024 National College Student Mathematical Contest in Modeling',
   },
   {
-    title: '第十五届全国大学生数学竞赛省一等奖（全省第二）',
+    title:
+      'First Prize in Liaoning Province in the 15th National College Student Mathematics Competition (Ranked 2nd Province-wide)',
   },
   {
-    title: '第十六届全国大学生数学竞赛省一等奖（全省第三）',
+    title:
+      'First Prize in Liaoning Province in the 16th National College Student Mathematics Competition (Ranked 3rd Province-wide)',
   },
 ];
