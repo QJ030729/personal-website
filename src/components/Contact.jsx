@@ -26,6 +26,7 @@ function Contact() {
     { label: contact.github.label, value: contact.github.value, href: contact.github.href },
     { label: contact.linkedin.label, value: contact.linkedin.value, href: contact.linkedin.href },
     { label: 'Resume', value: contact.resumeLabel, href: null },
+    { label: contact.friendWebsite.label, value: contact.friendWebsite.value, href: contact.friendWebsite.href },
   ];
 
   return (

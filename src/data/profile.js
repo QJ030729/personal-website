@@ -122,6 +122,11 @@ export const profile = {
       value: 'To be added',
       href: null,
     },
+    friendWebsite: {
+      label: "Friend's Website",
+      value: 'https://zhoujingyu.com/',
+      href: 'https://zhoujingyu.com/',
+    },
     resumeLabel: 'Download Resume',
     resumeHref: '/resume.pdf',
   },
