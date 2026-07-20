@@ -124,7 +124,7 @@ export const profile = {
       href: null,
     },
     friendWebsite: {
-      label: "Friend's Website:zhoujingyu",
+      label: "Friend's Website:\u00A0\u00A0zhoujingyu",
       value: 'https://zhoujingyu.com/',
       href: 'https://zhoujingyu.com/',
     },
