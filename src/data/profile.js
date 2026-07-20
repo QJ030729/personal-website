@@ -66,7 +66,7 @@ export const profile = {
       },
       {
         school: 'Shanghai Jiao Tong University',
-        degree: 'Ph.D. student in the Department of Mathematics',
+        degree: 'Ph.D. student in Computational Mathematics',
         period: '2026 - Present',
       },
     ],
@@ -74,6 +74,7 @@ export const profile = {
   honors: {
     title: 'Honors and Awards (Selected)',
     items: [
+      '2026, Outstanding Graduate of Liaoning Province.',
       'Outstanding Undergraduate Representative of Dalian University of Technology (one of only fourteen undergraduates university-wide to receive this honor).',
       '2023-2024 Academic Year, National Scholarship, Dalian University of Technology.',
       '2023 Academic Year, First-Class Academic Excellence Scholarship, Dalian University of Technology.',
